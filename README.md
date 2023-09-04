@@ -35,7 +35,7 @@ Follow the steps below for a smooth installation:
 1. **Clone the Bot from GitHub:**  
     (Make sure to replace 'YOUR_REPO_LINK' with the actual link to the repository)
     ```bash
-    git clone YOUR_REPO_LINK
+    git clone https://github.com/KupQ/Apple-p12-bot.git
     ```
 
 2. **Navigate to the Bot Directory:**
