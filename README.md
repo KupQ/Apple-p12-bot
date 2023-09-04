@@ -22,7 +22,7 @@ Follow the steps below for a smooth installation:
 
 2. **Installing Dependencies:**
     ```bash
-    apt install openssl python3.11 python3-pip -y
+    apt install openssl python3.11 python3-pip nodejs -y
     ```
 
 3. **Installing Python Packages:**
